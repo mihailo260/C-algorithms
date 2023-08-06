@@ -1,0 +1,2 @@
+C:\Users\Mihailo\Desktop\C\Project2\x64\Debug\Project2.exe
+C:\Users\Mihailo\Desktop\C\linkdedList\x64\Debug\Project2.exe
